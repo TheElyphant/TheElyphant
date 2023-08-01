@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a prolific full stack developer
 - 🌱 I’m currently learning Software Engineering on ALX
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me twitter.com/the_elyphant
 
 <!---
 TheElyphant/TheElyphant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
